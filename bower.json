@@ -1,0 +1,24 @@
+{
+  "name": "common-theme",
+  "version": "0.0.1",
+  "authors": [
+    "simonfan <98321@163.com>"
+  ],
+  "description": "common-theme",
+  "main": [
+	"css/*.css", 
+	"fonts/*",
+	"js/*.js"
+  ],
+  "keywords": [
+    "common-theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
